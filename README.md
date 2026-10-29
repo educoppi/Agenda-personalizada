@@ -39,7 +39,7 @@ Dígitos do RA: `6 6 6 7 7`
 
 ```bash
 git clone <https://github.com/educoppi/Agenda-personalizada>
-cd router-66677
+cd agenda-personalizada
 npm install
 npm run dev
 ```
